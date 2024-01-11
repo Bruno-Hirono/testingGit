@@ -5,3 +5,4 @@ id_dsa
 *.pem
 *.key
 y
+y.pub
