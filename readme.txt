@@ -1,3 +1,3 @@
-This is a simple project for training basic concepts in python3, git and github.
+(english) This is a simple project for training basic concepts in python3, git and github.
 
-Este é um projeto simples com intuito de treinar conceitos iniciais em python3, git e github.
+(português) Este é um projeto simples com intuito de treinar conceitos iniciais em python3, git e github.
